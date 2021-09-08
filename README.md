@@ -1,13 +1,13 @@
 # TALLER-CLIENTES-Y-SERVICIOS 
 
-
-Tarea que en el que se tiene manejo de Maven, Git y Heroku, esta tarea consiste en crear dos clientes los cuales se comunicaran con un servidor Heroku y extraera la información en forma de JSON de las APIs de Alpha Ventage e IEX Cloud, para posteriormente ser transportadas por medio del protocolo y representadas en nuestros clientes. 
+Taller donde se realizan peticiones consecutivas(no concurrentes) a un servidor, además de usar encabezados HTTP, accediendo a archivos locales del programa, leyendolos y desplegandolos, todo a través de protocolos HTTP con servicios get.Este servidor permite acceder/retornar todos los archivos solicitados incluyendo javascripts, páginas html e imágenes por medio de un sitio web en javascript el cual permite probar el servidor. Esta solución está desplegada en Heroku. 
 
 ### Requisitos previos
 
 * Tener maven instalado
 * Tener git instalado
 * Versión de Java 7 o Java 8
+* Tener Heroku
 
 ### Instalación
 
@@ -62,7 +62,7 @@ Corra la aplicación localmente emulando Heroku:
 JPG:
    * thebeatles.jpg
    * queen.jpg
-   * Michael.jpg
+   * MichaelJackson.jpg
    
 js:
    * Holaatodos.js
@@ -81,8 +81,8 @@ html:
 * [Maven] : Maven es una herramienta de software para la gestión y construcción de proyectos Java creada por Jason van Zyl, de Sonatype, en 2002. 
 * [Heroku] : Heroku es una plataforma en la nube que permite a las empresas construir, entregar, supervisar aplicaciones y alojarlas en la nube
 * [Spark Web] : Spark te permite convertir tus textos y fotografías en gráficos de aspecto profesional que llamarán la atención de todos. 
-* [JavaScrip] :
-* [json] :
+* [JavaScrip] : Es el lenguaje de programación encargado de dotar de mayor interactividad y dinamismo a las páginas web.
+* [json] : Es un formato de texto sencillo para el intercambio de datos. Se trata de un subconjunto de la notación literal de objetos de JavaScript, aunque, debido a su amplia adopción como alternativa a XML, se considera un formato independiente del lenguaje
 
 ## Autor
 
