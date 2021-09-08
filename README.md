@@ -50,7 +50,7 @@ Corra la aplicación localmente emulando Heroku:
      ```
    * Se ve el despliege en el siguiente link:
    
-      *http://localhost:35000/index.js
+      http://localhost:35000/index.js
    
 ## Directo con el link de heroku
 > [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://tallerclientesyservicios.herokuapp.com/index.js)
@@ -82,7 +82,7 @@ html:
 * [Heroku] : Heroku es una plataforma en la nube que permite a las empresas construir, entregar, supervisar aplicaciones y alojarlas en la nube
 * [Spark Web] : Spark te permite convertir tus textos y fotografías en gráficos de aspecto profesional que llamarán la atención de todos. 
 * [JavaScrip] : Es el lenguaje de programación encargado de dotar de mayor interactividad y dinamismo a las páginas web.
-* [JSON] : Es un formato de texto sencillo para el intercambio de datos. Se trata de un subconjunto de la notación literal de objetos de JavaScript, aunque, debido a su amplia adopción como alternativa a XML, se considera un formato independiente del lenguaje
+
 
 ## Autor
 
