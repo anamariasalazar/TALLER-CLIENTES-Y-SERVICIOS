@@ -50,25 +50,25 @@ Corra la aplicación localmente emulando Heroku:
      ```
    * Se ve el despliege en el siguiente link:
    
-      *http://localhost:4567/facadeiex
-   
-      *http://localhost:4567/facadealpha
+      *http://localhost:35000/index.js
    
 ## Directo con el link de heroku
 > [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://tallerclientesyservicios.herokuapp.com/index.js)
 
  
  Cuando se abra la App en la parte que dice "Ingrese nombre del archivo" se tiene para prueba los siguientes archivos:  
- JPG:
+ 
+ 
+JPG:
    * thebeatles.jpg
    * queen.jpg
    * Michael.jpg
    
- js:
+js:
    * Holaatodos.js
    * trabajo.js
    
- html:
+html:
    * Holaquehace.html
    * trabajo.html
  
@@ -78,8 +78,8 @@ Corra la aplicación localmente emulando Heroku:
 * [Java] : Tecnología que se usa para el desarrollo de aplicaciones que convierten a la Web en un elemento más interesante y útil.
 * [IntelliJ] : Es un entorno de desarrollo integrado (IDE) para el desarrollo de programas informáticos.
 * [Git] : Herramienta que realiza una función del control de versiones de código de forma distribuida
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [![Heroku] (https://www.herokucdn.com/deploy/button.svg)](https://git.heroku.com/tareamvngityherokuanasalazar.git)
+* [Maven] : Maven es una herramienta de software para la gestión y construcción de proyectos Java creada por Jason van Zyl, de Sonatype, en 2002. 
+* [Heroku] : Heroku es una plataforma en la nube que permite a las empresas construir, entregar, supervisar aplicaciones y alojarlas en la nube
 * [Spark Web] : Spark te permite convertir tus textos y fotografías en gráficos de aspecto profesional que llamarán la atención de todos. 
 
 ## Autor
