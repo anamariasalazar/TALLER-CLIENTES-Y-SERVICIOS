@@ -58,11 +58,20 @@ Corra la aplicación localmente emulando Heroku:
 > [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://tallerclientesyservicios.herokuapp.com/index.js)
 
  
- Cuando se abra la App al final el link poner la extensión facadealpha o facadealiex 
+ Cuando se abra la App en la parte que dice "Ingrese nombre del archivo" se tiene para prueba los siguientes archivos:  
+ JPG:
+   * thebeatles.jpg
+   * queen.jpg
+   * Michael.jpg
+   
+ js:
+   * Holaatodos.js
+   * trabajo.js
+   
+ html:
+   * Holaquehace.html
+   * trabajo.html
  
- Por ejemplo:
-   * https://tareamvngityherokuanasalazar.herokuapp.com/facadealpha
-   * https://tareamvngityherokuanasalazar.herokuapp.com/facadeiex
   
 ## Construido con
 
