@@ -55,8 +55,8 @@ Corra la aplicación localmente emulando Heroku:
       *http://localhost:4567/facadealpha
    
 ## Directo con el link de heroku
- 
-[![](/img/heroku.PNG)](https://tallerclientesyservicios.herokuapp.com/index.js)
+> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://tallerclientesyservicios.herokuapp.com/index.js)
+
  
  Cuando se abra la App al final el link poner la extensión facadealpha o facadealiex 
  
